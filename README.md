@@ -1,1 +1,1 @@
-# arduino-gyroscope-made-easy
+# reading data from MPU6050 made extreamly easy
